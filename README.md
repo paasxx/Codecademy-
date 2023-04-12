@@ -1,2 +1,2 @@
-# Codecademy-
-Codecademy data science carrer challenges
+# Codecademy
+Codecademy data science career challenges
